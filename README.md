@@ -1,5 +1,5 @@
 # Robotic-Scene-Segmentatiton
-Seggmentation of a robotic nephrectomy procedure scene
+Segmentation of a robotic nephrectomy procedure scene
 # Introduction
 This repository contains the implementation of convolutional neural network for the segmentation of robotic surgery scene images
 # Dataset
